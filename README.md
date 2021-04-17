@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandni-bhatia
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on a project relate to java 
+- 💞️ I’m looking to collaborate on a project related to java 
 - 📫 How to reach me -chandnibhatia74@gmail
 Com
 
